@@ -1,4 +1,4 @@
-# WebCrawler
+# Rrawler
 
 ## 역사
 - 22.03.19) 쿠키,데이터,헤더 등을 통해 POST,GET방식으로 전송 가능.   
